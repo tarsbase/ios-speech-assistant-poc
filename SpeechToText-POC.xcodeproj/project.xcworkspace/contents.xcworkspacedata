@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SpeechToTextDemo.xcodeproj">
+      location = "self:/Users/zain/Technosoft/ios-speech-assistant-poc/SpeechToText-POC.xcodeproj">
    </FileRef>
 </Workspace>

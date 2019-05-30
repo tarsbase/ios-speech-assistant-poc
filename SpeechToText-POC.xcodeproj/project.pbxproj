@@ -42,7 +42,7 @@
 		8773D9A0229FB9D700026EF7 /* NoPermissionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoPermissionViewController.swift; sourceTree = "<group>"; };
 		8773D9A1229FB9D700026EF7 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		8773D9A2229FB9D700026EF7 /* RecordingButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordingButton.swift; sourceTree = "<group>"; };
-		878BB862228585510024C697 /* SpeechToTextDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeechToTextDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		878BB862228585510024C697 /* SpeechToText-POC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SpeechToText-POC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		878BB865228585510024C697 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		878BB867228585510024C697 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		878BB86A228585510024C697 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 		878BB863228585510024C697 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				878BB862228585510024C697 /* SpeechToTextDemo.app */,
+				878BB862228585510024C697 /* SpeechToText-POC.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		878BB861228585510024C697 /* SpeechToTextDemo */ = {
+		878BB861228585510024C697 /* SpeechToText-POC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 878BB874228585520024C697 /* Build configuration list for PBXNativeTarget "SpeechToTextDemo" */;
+			buildConfigurationList = 878BB874228585520024C697 /* Build configuration list for PBXNativeTarget "SpeechToText-POC" */;
 			buildPhases = (
 				878BB85E228585510024C697 /* Sources */,
 				878BB85F228585510024C697 /* Frameworks */,
@@ -140,9 +140,9 @@
 			);
 			dependencies = (
 			);
-			name = SpeechToTextDemo;
+			name = "SpeechToText-POC";
 			productName = SpeechToTextDemo;
-			productReference = 878BB862228585510024C697 /* SpeechToTextDemo.app */;
+			productReference = 878BB862228585510024C697 /* SpeechToText-POC.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -160,7 +160,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 878BB85D228585510024C697 /* Build configuration list for PBXProject "SpeechToTextDemo" */;
+			buildConfigurationList = 878BB85D228585510024C697 /* Build configuration list for PBXProject "SpeechToText-POC" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -173,7 +173,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				878BB861228585510024C697 /* SpeechToTextDemo */,
+				878BB861228585510024C697 /* SpeechToText-POC */,
 			);
 		};
 /* End PBXProject section */
@@ -365,7 +365,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "techno-soft.SpeechToTextDemo";
+				PRODUCT_BUNDLE_IDENTIFIER = "techno-soft.SpeechToText-poc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -383,7 +383,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "techno-soft.SpeechToTextDemo";
+				PRODUCT_BUNDLE_IDENTIFIER = "techno-soft.SpeechToText-poc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -393,7 +393,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		878BB85D228585510024C697 /* Build configuration list for PBXProject "SpeechToTextDemo" */ = {
+		878BB85D228585510024C697 /* Build configuration list for PBXProject "SpeechToText-POC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				878BB872228585520024C697 /* Debug */,
@@ -402,7 +402,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		878BB874228585520024C697 /* Build configuration list for PBXNativeTarget "SpeechToTextDemo" */ = {
+		878BB874228585520024C697 /* Build configuration list for PBXNativeTarget "SpeechToText-POC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				878BB875228585520024C697 /* Debug */,
