@@ -4,9 +4,9 @@ Speech Assistant
 <p float="left">
 <img src="./Resource/screen_1.png" width="200" />
 &nbsp;
-<img src="./Resources/screen_2.png" width="200" />
+<img src="./Resource/screen_2.png" width="200" />
 &nbsp;
-<img src="./Resources/screen_3.png" width="200" />
+<img src="./Resource/screen_3.png" width="200" />
 &nbsp;
 </p>
 
@@ -41,9 +41,9 @@ Project code based on (https://github.com/algolia/voice-overlay-ios) which turn 
 <p float="left">
 <img src="./Resource/perm_1.png" width="200" />
 &nbsp;
-<img src="./Resources/perm_2.png" width="200" />
+<img src="./Resource/perm_2.png" width="200" />
 &nbsp;
-<img src="./Resources/perm_3.png" width="200" />
+<img src="./Resource/perm_3.png" width="200" />
 &nbsp;
 </p>
 
